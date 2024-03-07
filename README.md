@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moe Yan Htun From Myanmar.</h1>
+<h1 align="center">Hi 👋, I'm Moe Yan Htun From Myanmar</h1>
 <h3 align="center">I'm a passionate backend developer with experience in full stack development. Currently pursuing a computing degree at UK Pearson Diploma, I have a strong foundation in various technologies and frameworks. I'm dedicated to crafting efficient and scalable solutions to real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeyanhtun&label=Profile%20views&color=0e75b6&style=flat" alt="moeyanhtun" /> </p>
