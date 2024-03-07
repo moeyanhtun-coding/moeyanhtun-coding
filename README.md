@@ -1,28 +1,5 @@
-# Hi there, I'm Moe Yan Htun! 👋
-
-I'm a passionate backend developer with experience in full stack development. Currently pursuing a computing degree at UK Pearson Diploma, I have a strong foundation in various technologies and frameworks. I'm dedicated to crafting efficient and scalable solutions to real-world problems.
-
-## Skills
-- **Languages:** HTML, CSS, JavaScript, PHP, SQL
-- **Frontend:** Bootstrap, Tailwind CSS, Vue.js, React.js
-- **Backend:** Node.js, Express.js, PHP (Laravel)
-- **Databases:** MongoDB, SQL
-- **Tools:** Postman
-
-## Projects
-- **Project 1:** [Project Name](link-to-project) - Description of the project.
-- **Project 2:** [Project Name](link-to-project) - Description of the project.
-- **Project 3:** [Project Name](link-to-project) - Description of the project.
-
-## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](link-to-your-profile)
-- Email: [Your Email Address](mailto:youremail@example.com)
-
-Feel free to reach out if you'd like to collaborate on projects or have any questions!
-
-
 <h1 align="center">Hi 👋, I'm Moe Yan Htun From Myanmar.</h1>
-<h3 align="center">I am a passionate backend developer with the PHP Laravel framework, and I can do full stack development.</h3>
+<h3 align="center">I'm a passionate backend developer with experience in full stack development. Currently pursuing a computing degree at UK Pearson Diploma, I have a strong foundation in various technologies and frameworks. I'm dedicated to crafting efficient and scalable solutions to real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeyanhtun&label=Profile%20views&color=0e75b6&style=flat" alt="moeyanhtun" /> </p>
 
