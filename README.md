@@ -5,7 +5,7 @@
 
 - 🔭 I’m a student at **GUSTO University**
 
-- 🌱 I’m currently learning **MongoDB, ExpressJs, ReactJs, NodeJs**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **Vue, Laravel, PHP**
 
