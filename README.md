@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moe Yan Htun From Myanmar.</h1>
 <h3 align="center">I am a passionate backend developer with the PHP Laravel framework, and I can do full stack development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moeyanhtun-coding&label=Profile%20views&color=0e75b6&style=flat" alt="moeyanhtun-coding" /> </p>
-
 - 🔭 I’m a student at **GUSTO University**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#**,**Flutter**
 
-- 💬 Ask me about **Vue, Laravel, PHP**
+- 💬 Ask me about **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
