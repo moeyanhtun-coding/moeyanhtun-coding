@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moe Yan Htun From Myanmar.</h1>
-<h3 align="center">I am a passionate backend developer with the PHP Laravel framework, and I can do full stack development.</h3>
+<h3 align="center">I am a passionate backend developer with ASP.NET, and also Mobile Development With Flutter </h3>
 
 - 🔭 I’m a student at **GUSTO University**
 
