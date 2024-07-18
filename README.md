@@ -13,7 +13,7 @@
 <a href="https://fb.com/moe yan htun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moe yan htun" height="30" width="40" /></a>
 </p>
 
-</hr>
+<br>
 
 💻 Main Tech Stack
 
@@ -25,6 +25,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
 
 </div>
-
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeyanhtun-coding&" alt="moeyanhtun-coding" /></p>
