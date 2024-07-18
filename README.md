@@ -13,10 +13,16 @@
 <a href="https://fb.com/moe yan htun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moe yan htun" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Language: </h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+💻 Main Tech Stack
+
+<div style="display:flex; justify-content: center;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+
+</div>
 
 
 
