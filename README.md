@@ -15,6 +15,9 @@
 
 <h3 align="left">Language: </h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moeyanhtun-coding&show_icons=true&locale=en&layout=compact" alt="moeyanhtun-coding" /></p>
