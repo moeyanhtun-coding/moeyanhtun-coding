@@ -21,15 +21,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
 
 </div>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moeyanhtun-coding&show_icons=true&locale=en&layout=compact" alt="moeyanhtun-coding" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moeyanhtun-coding&show_icons=true&locale=en" alt="moeyanhtun-coding" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeyanhtun-coding&" alt="moeyanhtun-coding" /></p>
