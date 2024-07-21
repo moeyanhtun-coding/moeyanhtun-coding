@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**,**Flutter**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **C#**, **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
