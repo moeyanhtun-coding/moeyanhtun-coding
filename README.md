@@ -3,7 +3,7 @@
 
 - 🔭 I’m a student at **GUSTO University**
 
-- 🌱 I’m currently learning **C#**,**Flutter**
+- 🌱 I’m currently learning **C#**, **Flutter**
 
 - 💬 Ask me about **C#**, **Flutter**
 
