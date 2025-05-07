@@ -14,12 +14,3 @@ I’m a passionate 20-year-old software developer with a strong enthusiasm for e
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moe yan htun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moe yan htun" height="30" width="40" /></a>
-<a href="https://fb.com/moe yan htun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moe yan htun" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeyanhtun-coding&" alt="moeyanhtun-coding" /></p>
