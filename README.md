@@ -22,13 +22,4 @@ I’m a passionate 20-year-old software developer with a strong enthusiasm for e
 
 <br>
 
-💻 Main Tech Stack
-
-<div style="display:flex; justify-content: center;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/>
-</div>
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeyanhtun-coding&" alt="moeyanhtun-coding" /></p>
