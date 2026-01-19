@@ -27,10 +27,15 @@ In 2025, I joined **Ant Tech Software Solution** and rapidly progressed through 
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://nirzak-streak-stats.vercel.app/?user=moeyanhtun-coding&theme=merko&hide_border=true" alt="Streak" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=moeyanhtun-coding&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=moeyanhtun-coding&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeyanhtun-coding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=moeyanhtun-coding&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=moeyanhtun-coding&theme=radical&no-frame=true&no-bg=false&margin-w=4)
