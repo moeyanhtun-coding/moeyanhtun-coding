@@ -28,17 +28,11 @@ In 2025, I joined **Ant Tech Software Solution** and rapidly progressed through 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moeyanhtun-coding&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=moeyanhtun-coding&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeyanhtun-coding&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=moeyanhtun-coding&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=moeyanhtun-coding&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=moeyanhtun-coding&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeyanhtun-coding&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=moeyanhtun-coding&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
