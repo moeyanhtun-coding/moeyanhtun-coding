@@ -32,10 +32,8 @@ In 2025, I joined **Ant Tech Software Solution** and rapidly progressed through 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeyanhtun-coding&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=moeyanhtun-coding&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moe-yan-htun-73a8b2271/) 
