@@ -22,7 +22,14 @@ With a background in **.NET** and **Flutter**, I specialize in bridging the gap 
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,js,nodejs,mysql,git&theme=dark" height="60" alt="tech stack icons" />
+  
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,js,nodejs&theme=dark" height="60" alt="languages and frameworks" />
+  <br><br>
+  <!-- Databases, DevOps, & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws,git&theme=dark" height="60" alt="databases and devops" />
+  <br><br>
+  <!-- MSSQL Badge -->
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="35" alt="mssql badge" />
 </div>
 
 ---
