@@ -46,7 +46,6 @@ In 2025, I joined **Ant Tech Software Solution** and rapidly progressed through 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=moeyanhtun-coding&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=moeyanhtun-coding&theme=dracula&no-bg=true&no-frame=true&margin-w=15" height="150" alt="trophy graph" />
 </div>
 
 <br/>
@@ -58,13 +57,3 @@ In 2025, I joined **Ant Tech Software Solution** and rapidly progressed through 
 
 ---
 
-### 👾 Contributions
-
-<!-- Note: To render the Pacman graph below, you will need to set up the corresponding GitHub Action (like Platane/snk or the custom Pacman action) in your repository to output to the 'pacman-output' branch! -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moeyanhtun-coding/moeyanhtun-coding/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moeyanhtun-coding/moeyanhtun-coding/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moeyanhtun-coding/moeyanhtun-coding/pacman-output/pacman-contribution-graph.svg">
-  </picture>
-</div>
