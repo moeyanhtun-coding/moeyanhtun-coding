@@ -13,7 +13,7 @@
 
 ### 💫 About Me
 
-I’m a passionate **Mid-level Software Engineer** at **Ant Tech Software Solution Co., Ltd.** with a focus on building scalable, real-world enterprise solutions. 
+I’m a passionate **Software Engineer** at **Ant Tech Software Solution Co., Ltd.** with a focus on building scalable, real-world enterprise solutions. 
 
 With a background in **.NET** and **Flutter**, I specialize in bridging the gap between robust back-end logic and intuitive front-end experiences. I am a lifelong learner, recently completing my Higher National Diploma in Computing from Pearson UK, and I thrive in fast-paced environments where innovation meets problem-solving.
 
