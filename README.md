@@ -51,11 +51,6 @@ In 2025, I joined **Ant Tech Software Solution** and rapidly progressed through 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=moeyanhtun-coding&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=moeyanhtun-coding&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
